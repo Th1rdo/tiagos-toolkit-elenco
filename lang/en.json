@@ -1,0 +1,22 @@
+{
+  "ELENCO.Titulo": "New token",
+  "ELENCO.Novo": "New token (choose image)",
+  "ELENCO.Nome": "Name",
+  "ELENCO.Vida": "HP",
+  "ELENCO.VidaDica": "e.g. 12 or 8/20 (empty = no bar)",
+  "ELENCO.Quantos": "How many",
+  "ELENCO.Hostil": "Hostile",
+  "ELENCO.Neutro": "Neutral",
+  "ELENCO.Amigavel": "Friendly",
+  "ELENCO.Criar": "Create",
+  "ELENCO.ClicaOnde": "Click on the map where you want it · Esc cancels",
+  "ELENCO.Criado": "“{nome}” is on the map.",
+  "ELENCO.Criados": "{n} × “{nome}” on the map.",
+  "ELENCO.ImagemTrocada": "“{nome}” image replaced (token and actor).",
+  "ELENCO.FalhouEnvio": "Could not upload the image: {erro}",
+  "ELENCO.Atalho": "New token",
+  "ELENCO.AtalhoDica": "Opens the file browser to create a token.",
+  "ELENCO.UsarModelo": "Use these bars as the template for new tokens",
+  "ELENCO.ModeloGuardado": "Bars saved as template: new tokens will look like this.",
+  "ELENCO.SemBarras": "This token has no Bar Brawl bars."
+}

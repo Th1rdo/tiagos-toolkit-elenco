@@ -1,0 +1,22 @@
+{
+  "ELENCO.Titulo": "Novo token",
+  "ELENCO.Novo": "Novo token (escolher imagem)",
+  "ELENCO.Nome": "Nome",
+  "ELENCO.Vida": "Vida",
+  "ELENCO.VidaDica": "ex.: 12 ou 8/20 (vazio = sem barra)",
+  "ELENCO.Quantos": "Quantos",
+  "ELENCO.Hostil": "Hostil",
+  "ELENCO.Neutro": "Neutro",
+  "ELENCO.Amigavel": "Amigável",
+  "ELENCO.Criar": "Criar",
+  "ELENCO.ClicaOnde": "Clica no mapa onde o queres · Esc cancela",
+  "ELENCO.Criado": "«{nome}» está no mapa.",
+  "ELENCO.Criados": "{n} × «{nome}» no mapa.",
+  "ELENCO.ImagemTrocada": "Imagem de «{nome}» trocada (token e ator).",
+  "ELENCO.FalhouEnvio": "Não foi possível enviar a imagem: {erro}",
+  "ELENCO.Atalho": "Novo token",
+  "ELENCO.AtalhoDica": "Abre o navegador de ficheiros para criar um token.",
+  "ELENCO.UsarModelo": "Usar estas barras como modelo dos tokens novos",
+  "ELENCO.ModeloGuardado": "Barras guardadas como modelo: os próximos tokens vêm assim.",
+  "ELENCO.SemBarras": "Este token não tem barras do Bar Brawl."
+}
